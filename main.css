@@ -11,3 +11,9 @@
 .header{
     font-size: 100px;
 }
+.margin-intercept{
+    margin: 20px;
+}
+.shrink-to-necessary-size{
+    display: inline-block;
+}
